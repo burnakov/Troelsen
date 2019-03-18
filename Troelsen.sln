@@ -247,6 +247,14 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectContextApp", "ObjectContextApp\ObjectContextApp.csproj", "{98297DD3-AA62-4254-87A5-A6E4DBA2E9F5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter 18", "Chapter 18", "{4B6A5E27-96CD-44F2-ABD5-E19B3C5C10C0}"
+	ProjectSection(SolutionItems) = preProject
+		MyApp\CarClient.il = MyApp\CarClient.il
+		MyApp\CILCars.il = MyApp\CILCars.il
+		MyApp\CILTypes.il = MyApp\CILTypes.il
+		MyApp\HelloProgramm.cs = MyApp\HelloProgramm.cs
+		MyApp\HelloProgramm.exe = MyApp\HelloProgramm.exe
+		MyApp\HelloProgramm.il = MyApp\HelloProgramm.il
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAsmBuilder", "MyAsmBuilder\MyAsmBuilder.csproj", "{028871E3-ECAB-42AA-8162-12FE56C0B1C7}"
 EndProject
